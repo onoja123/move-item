@@ -1,4 +1,4 @@
-
+//Welcome alert
 alert("Welcome to moving item using keypad")
 
 //get design element
